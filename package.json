@@ -1,0 +1,10 @@
+{
+  "name": "com.poetools.design-ui",
+  "version": "0.0.1",
+  "displayName": "Poetools UI Design",
+  "description": "Reusable tools to make UI design easier.",
+  "author": {
+    "name": "poetahto",
+    "email": "epic.potat@gmail.com"
+  }
+}
