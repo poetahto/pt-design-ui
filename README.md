@@ -1,11 +1,14 @@
-# poetools runtime console
-_An easy-to-use and powerful runtime developer console._
+# poetools design: UI
+_A set of reusable assets for creating user interfaces in Unity._
 
 ## features
-- Create custom commands with auto-complete and history built in.
-- Includes helpful default commands for common game-related tasks.
+- Common prefabs for UI elements.
+- ScriptableObject based color pallete for GameObject-based interfaces.
+- MenuBuilder for easily injecting logic into GameObject-based interfaces.
+- The Xelu free keyboard prompts, for tutorials and hints.
 
 ## roadmap
-- improving this readme with pictures, videos
-- Adding more useful default commands.
-- Adding optional console support to other poetools packages.
+- Mess around with new UI elements tools
+- Add common font families
+- Screen transition tool (fades, wipes ect)
+- Blurred background shader for UI
