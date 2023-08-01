@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using DefaultNamespace;
+using UnityEngine;
 
 namespace Poetools.UI
 {
@@ -19,7 +20,7 @@ namespace Poetools.UI
     /// <summary>
     /// A bridge between prefabs, stored in the asset database, and C# scripts at runtime.
     /// </summary>
-    [CreateAssetMenu(menuName = "Custom/UI Prefabs", fileName = "UIPrefabs", order = 0)]
+    [CreateAssetMenu(menuName = DesignUINaming.AssetMenuName + "/UI Prefabs", fileName = "UIPrefabs", order = 0)]
     public class UIPrefabs : ScriptableObject
     {
         /// <summary>

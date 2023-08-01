@@ -12,3 +12,8 @@ _A set of reusable assets for creating user interfaces in Unity._
 - Add common font families
 - Screen transition tool (fades, wipes ect)
 - Blurred background shader for UI
+- pause menu prefab?
+- settings menu prefab?
+- main menu prefab / scene template?
+- credits menu prefab / scene template?
+- layered scene / window ui system (for settings, controls, ect)
